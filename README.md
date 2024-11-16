@@ -1,3 +1,4 @@
 # 🧀 cheese
 
 * brie
+* cheddar
